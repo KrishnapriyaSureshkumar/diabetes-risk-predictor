@@ -1,24 +1,24 @@
 # AI-Based Diabetes Risk Prediction
 
-## 📌 Overview
+## Overview
 
 This project is a machine learning-based application that predicts the risk of diabetes using clinical input parameters. It provides real-time predictions through an interactive web interface.
 
-## 🚀 Features
+## Features
 
 * Data preprocessing and feature scaling
 * Machine learning model using Logistic Regression
 * Real-time prediction using Streamlit
 * Probability-based risk scoring
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * Streamlit
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository
 2. Install dependencies:
@@ -37,11 +37,11 @@ This project is a machine learning-based application that predicts the risk of d
    streamlit run app.py
    ```
 
-## 📊 Output
+## Output
 
 Users can input clinical data and receive a predicted diabetes risk along with probability scores.
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add more advanced ML models
 * Improve accuracy with hyperparameter tuning
